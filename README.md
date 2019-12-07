@@ -1,5 +1,5 @@
 # About this
-## 資訊視覺化X金融分析_工作坊
+資訊視覺化X金融分析_工作坊
 
 
 # Introduction
