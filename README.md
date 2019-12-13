@@ -1,6 +1,6 @@
 # About this
 資訊視覺化X金融分析_工作坊
-* Day1 December 7 :Practice In Class
+* Day1 December 7 :Practices In Class
 * HW :Sea-Ice Extend On January 1 and Sea Surface Temperature
 * UTaipei-master :Example
 
